@@ -1,0 +1,15 @@
+Stakeholder;AB_RWS;AW_RWS;AB_MIWM;AW_MIWM;AB_Municipality;AW_Municipality;AB_Road_users;AW_Road_users;AB_Residents;AW_Residents;AB_Contractors;AW_Contractors;AB_Shipping_sector;AW_Shipping_sector
+Best criteria;Operational safety;Economic impact;Life-cycle costs;navigability;Accessibility;economic impact;Accessibility;Economic impact;Visual impact;Environmental impact;Construction safety;Construction time;Navigability;Environmental impact
+;;;;;;;;;;;;;;
+Operational safety;1;8;3;4;3;5;2;4;;;;;2;5
+Construction safety;4;3;;;;;;;;;1;5;;
+Life-cycle costs;6;2;1;8;;;;;;;;;;
+Construction time;5;2;;;4;4;;;2;4;5;1;;
+Reliability/service;2;6;3;4;3;5;3;2;;;;;2;4
+Accessibility;4;3;4;3;1;7;1;5;3;5;;;4;4
+Construction nuisance (temporary);;;;;2;6;;;2;2;;;;
+Economic impact;8;1;2;6;2;6;5;1;;;4;2;4;2
+Capacity;3;4;5;2;;;2;2;;;;;;
+Environmental/ permanent impact (Noise + air + ecology);3;3;6;2;2;5;;;5;1;;;7;1
+Visual impact;;;;;7;1;;;1;5;;;;
+Navigatibility (Clearance height, Pillars in passage/ clearance width);3;4;8;1;;;;;;;;;1;7
