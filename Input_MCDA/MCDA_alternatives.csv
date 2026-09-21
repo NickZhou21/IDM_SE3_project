@@ -4,9 +4,9 @@ Rijkswaterstaat;Operational safety;0;50;100;80;0.26732673
 Rijkswaterstaat;Construction safety;0;30;100;70;0.07425743
 Rijkswaterstaat;Life-cycle costs;0;20;100;50;0.04950495
 Rijkswaterstaat;Construction time;30;0;100;80;0.05940594
-Rijkswaterstaat;Reliability / service;80;100;80;50;0.14851485
+Rijkswaterstaat;Reliability / service;60;100;80;0;0.14851485
 Rijkswaterstaat;Accessibility;20;0;100;60;0.07425743
-Rijkswaterstaat;Economic impact;80;100;50;70;0.02970297
+Rijkswaterstaat;Economic impact;70;100;0;40;0.02970297
 Rijkswaterstaat;Capacity;0;40;100;60;0.0990099
 Rijkswaterstaat;Environmental impact;70;100;0;50;0.0990099
 Rijkswaterstaat;Navigability;100;90;40;0;0.0990099
@@ -28,8 +28,8 @@ Municipalities;Environmental impact;100;50;30;0;0.10445469
 Municipalities;Visible impact;100;80;0;40;0.03072197
 Road users;Operational safety;0;30;60;100;0.18396226
 Road users;Reliability / service;60;100;40;0;0.12264151
-Road users;Construction nuisance;0;20;100;70;0.3254717
-Road users;Accessibility;0;10;100;90;0.15566038
+Road users;Accessibility;0;20;100;70;0.3254717
+Road users;Construction nuisance;0;10;100;90;0.15566038
 Road users;Economic impact;80;100;50;0;0.05660377
 Road users;Capacity;0;50;100;70;0.15566038
 Residents;Construction time;30;0;100;80;0.23076923
